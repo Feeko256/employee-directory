@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\YandexDisk\\YandexDisk\\employee directory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D89A2626-693B-41B9-A987-7E97AC0DD3A8}|employee_directory\\employee_directory.csproj|d:\\yandexdisk\\yandexdisk\\employee directory\\employee_directory\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D89A2626-693B-41B9-A987-7E97AC0DD3A8}|employee_directory\\employee_directory.csproj|solutionrelative:employee_directory\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D89A2626-693B-41B9-A987-7E97AC0DD3A8}|employee_directory\\employee_directory.csproj|d:\\yandexdisk\\yandexdisk\\employee directory\\employee_directory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89A2626-693B-41B9-A987-7E97AC0DD3A8}|employee_directory\\employee_directory.csproj|solutionrelative:employee_directory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D89A2626-693B-41B9-A987-7E97AC0DD3A8}|employee_directory\\employee_directory.csproj|d:\\yandexdisk\\yandexdisk\\employee directory\\employee_directory\\db\\dboperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{D89A2626-693B-41B9-A987-7E97AC0DD3A8}|employee_directory\\employee_directory.csproj|solutionrelative:employee_directory\\employeesgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D89A2626-693B-41B9-A987-7E97AC0DD3A8}|employee_directory\\employee_directory.csproj|d:\\yandexdisk\\yandexdisk\\employee directory\\employee_directory\\db\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D89A2626-693B-41B9-A987-7E97AC0DD3A8}|employee_directory\\employee_directory.csproj|solutionrelative:employee_directory\\db\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D89A2626-693B-41B9-A987-7E97AC0DD3A8}|employee_directory\\employee_directory.csproj|d:\\yandexdisk\\yandexdisk\\employee directory\\employee_directory\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89A2626-693B-41B9-A987-7E97AC0DD3A8}|employee_directory\\employee_directory.csproj|solutionrelative:employee_directory\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D89A2626-693B-41B9-A987-7E97AC0DD3A8}|employee_directory\\employee_directory.csproj|d:\\yandexdisk\\yandexdisk\\employee directory\\employee_directory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D89A2626-693B-41B9-A987-7E97AC0DD3A8}|employee_directory\\employee_directory.csproj|solutionrelative:employee_directory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D89A2626-693B-41B9-A987-7E97AC0DD3A8}|employee_directory\\employee_directory.csproj|d:\\yandexdisk\\yandexdisk\\employee directory\\employee_directory\\db\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89A2626-693B-41B9-A987-7E97AC0DD3A8}|employee_directory\\employee_directory.csproj|solutionrelative:employee_directory\\db\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,20 +30,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\YandexDisk\\YandexDisk\\employee directory\\employee_directory\\Model\\Employee.cs",
               "RelativeDocumentMoniker": "employee_directory\\Model\\Employee.cs",
               "ToolTip": "D:\\YandexDisk\\YandexDisk\\employee directory\\employee_directory\\Model\\Employee.cs",
               "RelativeToolTip": "employee_directory\\Model\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABXAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T14:49:48.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T14:49:48.126Z"
             },
             {
               "$type": "Document",
@@ -66,27 +65,27 @@
               "RelativeDocumentMoniker": "employee_directory\\DB\\DbOperations.cs",
               "ToolTip": "D:\\YandexDisk\\YandexDisk\\employee directory\\employee_directory\\DB\\DbOperations.cs",
               "RelativeToolTip": "employee_directory\\DB\\DbOperations.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAADEAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCYAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T14:30:56.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\YandexDisk\\YandexDisk\\employee directory\\employee_directory\\Program.cs",
               "RelativeDocumentMoniker": "employee_directory\\Program.cs",
               "ToolTip": "D:\\YandexDisk\\YandexDisk\\employee directory\\employee_directory\\Program.cs",
               "RelativeToolTip": "employee_directory\\Program.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAQwIIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T14:34:15.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ApplicationContext.cs",
               "DocumentMoniker": "D:\\YandexDisk\\YandexDisk\\employee directory\\employee_directory\\DB\\ApplicationContext.cs",
               "RelativeDocumentMoniker": "employee_directory\\DB\\ApplicationContext.cs",
@@ -94,8 +93,7 @@
               "RelativeToolTip": "employee_directory\\DB\\ApplicationContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T14:30:38.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T14:30:38.865Z"
             }
           ]
         }

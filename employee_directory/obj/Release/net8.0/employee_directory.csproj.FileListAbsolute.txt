@@ -108,3 +108,4 @@ D:\YandexDisk\YandexDisk\employee directory\employee_directory\obj\Release\net8.
 D:\YandexDisk\YandexDisk\employee directory\employee_directory\obj\Release\net8.0\employee_directory.pdb
 D:\YandexDisk\YandexDisk\employee directory\employee_directory\obj\Release\net8.0\employee_directory.genruntimeconfig.cache
 D:\YandexDisk\YandexDisk\employee directory\employee_directory\obj\Release\net8.0\ref\employee_directory.dll
+D:\YandexDisk\YandexDisk\employee directory\employee_directory\obj\Release\net8.0\employee_directory.sourcelink.json

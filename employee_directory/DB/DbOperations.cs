@@ -39,11 +39,6 @@ namespace employee_directory.DB
                 db.Employees.AddRange(employees);
                 db.SaveChanges();
             }
-            using (ApplicationContext db = new ApplicationContext())
-            {
-                db.Employees.AddRange(employees);
-                db.SaveChanges();
-            }
         }
     }
 }

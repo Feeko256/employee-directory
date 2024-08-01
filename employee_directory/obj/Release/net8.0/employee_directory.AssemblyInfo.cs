@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("employee_directory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1542253b0f7134d8ca443360d4350a08995d9ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("employee_directory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("employee_directory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -20,7 +20,7 @@ namespace employee_directory
             //p 2 "Volkov Dmitry Andreevich" 1995-07-19 Male
             //  while (true)
             //  {
-            /*  Console.WriteLine(new string('-', 82));
+            /*Console.WriteLine(new string('-', 82));
               Console.WriteLine("Write \"p 1\" to initialize the database");
               Console.WriteLine("Write \"p 2 \"Ivanov Petr Sergeevich\" 2009-07-12 Male\" to add data to the database");
               Console.WriteLine("Write \"p 3\" to view employees in the database");
@@ -76,6 +76,7 @@ namespace employee_directory
                         }
                     case "myApp 3":
                         {
+                            Console.Clear();
                             Return(ReturnEmployees());
                             break;
                         }
@@ -83,6 +84,7 @@ namespace employee_directory
                         {
                             try
                             {
+                                Console.Clear();
                                 Console.WriteLine("Employee generation and addition to the database are in progress. Please wait...");
                                 Stopwatch stopwatch = new Stopwatch();
                                 stopwatch.Start();
@@ -113,6 +115,7 @@ namespace employee_directory
                         }
                     case "myApp 5":
                         {
+                            Console.Clear();
                             Return(ReturnEmployeesLastNameStartsWithF());
                             break;
                         }
@@ -135,6 +138,7 @@ namespace employee_directory
         }
         private static void Return(List<Employee> employeesList)
         {
+            Console.Clear();
             Stopwatch stopwatch = new Stopwatch();
             Console.WriteLine("{0, -7} | {1,-12} | {2,-12} | {3,-12} | {4,-10} | {5,-8} | {6,-3}",
 "Id", "Last Name", "First Name", "Middle Name", "Date", "Gender", "Age");
@@ -143,7 +147,8 @@ namespace employee_directory
             stopwatch.Stop();
             var returningTime = stopwatch.Elapsed;
             stopwatch.Start();
-            foreach (var e in employeesList)
+            var sortedEmployees = employeesList.OrderBy(i => i.LastName).ThenBy(i => i.FirstName).ThenBy(i => i.MiddleName);
+            foreach (var e in sortedEmployees)
             {
                 Console.WriteLine("{0, -7} | {1,-12} | {2,-12} | {3,-12} | {4,-10} | {5,-8} | {6,-3}",
                     e.Id, e.LastName, e.FirstName, e.MiddleName, e.DateOfBirth, e.Gender, e.AgeCalculate());
